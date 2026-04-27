@@ -16,7 +16,7 @@
 ## 💻 プロジェクトについて
 このGitHubアカウントでは、技科大祭の公式ホームページのソースコード管理や、委員会内で使用する各種システムの運用を行っています。
 
-- **Webサイト用リポジトリ:** [gikadaisai.github.io](https://github.com/Gikadaisai/gikadaisai.github.io)
+- **Webサイト用リポジトリ:** [gikadaisai.github.io](https://github.com/TUT-Festival/gikadaisai.github.io)
 
 ## 📬 お問い合わせ・ご協賛について
 企業様からのご協賛に関するご相談や、メディア関係者様からのお問い合わせにつきましては、公式ホームページのお問い合わせ窓口、または以下の連絡先よりお願いいたします。
